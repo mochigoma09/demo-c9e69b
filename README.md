@@ -1,2 +1,3 @@
 # demo-c9e69b
-Auto generated demo site for 関口工務店
+
+AIによって自動生成された 関口工務店 様向けのデモサイトです。
